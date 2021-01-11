@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <title>403 Forbidden</title>
+        <style>
+            body {
+                max-width: 80vw;
+                width: 50rem;
+                margin: 2rem auto;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 1.25rem;
+                color: #026;
+                background: #fff;
+            }
+            h1 {
+                font-family: Georgia, serif;
+                font-size: 2rem;
+                color: black;
+                margin-bottom: 2rem;
+                padding-bottom: 2rem;
+                border-bottom: solid 1px #ccc;
+            }
+            footer {
+                text-align: right;
+                font-size: 0.8rem;
+                color: #999;
+                margin-top: 2rem;
+                padding-top: 0.5rem;
+                border-top: solid 1px #ccc;
+                font-family: Georgia;
+                font-style: italic;
+            }
+            p {
+                margin: 1.25rem;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>We're sorry. Something about your request was flagged by our firewall.</h1>
+        <p>
+            Your access to this resource was forbidden.
+        </p>
+        <p>
+            This is most likely because something about the request seemed suspicious to our automated web application firewall.
+            If you are seeing this message in your web browser we're sorry. It means the firewall made a mistake.
+        </p>
+        <p>
+            <strong>
+                Please do NOT simply refresh the page or send the same request again.
+            </strong>
+            If you trigger two firewall rules in quick succession your IP address will be blocked from accessing any page on our server.
+        </p>
+        <p>
+            We regularly check the server log files for false positives and it is likely if you try again tomorrow that your request will succeed.
+            However please feel free to contact Prater Raines, who host this website, to get the problem fixed sooner.
+        </p>
+        <footer>403 Forbidden</footer>
+    </body>
+</html>

@@ -1,0 +1,993 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<!-- <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/> -->
+<meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+<meta name="theme-color" content="#111">
+<meta name="description" content="The page you were looking for cannot be found.">
+<meta property="og:description" content="The page you were looking for cannot be found." />
+<meta name="keywords" content="page not found">
+<meta property="og:title" content="Page Not Found Error" />
+<meta property="og:website" content="https://www.havantcarcompany.co.uk" />
+<title>Page Not Found Error</title>
+<link rel="canonical" href="https://www.havantcarcompany.co.uk/assets/354432/large/c9eb787976b8ca51915424112b9d4113_354432.jpg">
+<meta property="og:url" content="https://www.havantcarcompany.co.uk/assets/354432/large/c9eb787976b8ca51915424112b9d4113_354432.jpg">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Havant Car Company">
+<link rel="stylesheet" href="/asset/css/font-awesome.min.css">
+<link rel="stylesheet" href="/asset/css/owl.carousel.min.css">
+<link rel="stylesheet" href="/asset/css/owl-animate.min.css">
+<link rel="stylesheet" href="/asset/css/select2.min.css">
+<link rel="stylesheet" href="/asset/css/roundslider.min.css">
+<link rel="stylesheet" href="/asset/css/style.min.css?v=4">
+<link rel="stylesheet" href="/asset/css/color-style.min.css?v=08"><link rel="stylesheet" href="/asset/css/internal.min.css?v=08"><script src="/asset/js/plugins/jquery-2.2.4.min.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<style>.logo img{width: 255px!important;}</style><link rel="stylesheet" href="/templates/headers/header86/header.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/footers/footer131/footer.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/sliders/slider84/slider.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/all-car-features/all-car-features42/all-car-features.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/banners/banners115/banner.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/banners/banners135/banner.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/caroftheweek/cow172/cow.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/banners/banners141/banner.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/car-brand/car-brand70/car-brand.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/welcome-text/welcome22/welcome.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/logos/logos97/logos.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/car-stock/carstock149/carstock.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/customer-review/customer-review90/customer-review.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/templates/customer-review/customer-review168/customer-review.css" onload="this.media='all'" />
+<link rel="stylesheet" href="/asset/css/media.min.css">
+<style>.bookvehprice{background-color: #e30613!Important;}
+#welcome_text_v4 .about_main {text-align: center;}
+#welcome_text_v4 .about_main .featured-title {width: auto;}
+#welcome_text_v4 h3 {padding:10px!important}
+.stock-list:before{background: transparent!important;}
+#header_v23 .top-navigation ul li:nth-child(7) a{pointer-events:none;cursor:default}
+#header_v23 .top-navigation ul li .sub-menu a{pointer-events:auto;cursor:pointer}
+*{border-radius:0px!important}
+#heroImage_v21:after,#heroImage_v21:before{content:" ";display:table}
+#heroImage_v21:before{left:0;transform:skewY(4.5deg)}
+#heroImage_v21:after,#heroImage_v21:before{position:absolute;bottom:-3vw;width:51%;height:6vw;background-color:#fff!Important;z-index:101}
+#heroImage_v21:after{clear:both;right:0;transform:skewY(-4.5deg)}
+#productList-2 .listing-box-slide{height:auto!important;}
+#customer_review_v107 {display:none!Important;}
+#CD5_module125{ background-color: #222;}
+#CD5_module125 .list-box .rollover {  background-color:rgba(0,0,0,0.8); color: #fff; }
+#CD5_module125 .list-box .rollover * { color: #f8f8f8; }
+#CD5_module125 .owl-prev{ color: #f8f8f8;}
+#CD5_module125 .owl-next{color: #f8f8f8;}
+.video_btn_info{background-color:#cc0000}
+.specials__finance{background-color:#3378f4!important}
+.specials__content{background-color:#333!important}
+.specials__cash{background-color:#cc0000!important}
+.swap-btn-group span.list-grid:hover{background-color:#cc0000;border-color:#cc0000}
+#header_v23 .toplink .social-icon li a {background-color: #cc0000;line-height: 1;}
+#header_v23 .toplink .social-icon li a:hover{background-color: #fff;color: #cc0000!important;}
+#header_v23 .top-navigation ul li .sub-menu{top:auto!important}
+#header_v23 .top-navigation ul li a,#header_v23 .top-navigation ul li.active a,#header_v23 .top-navigation ul li:hover a{border-bottom:none!important}
+#header_v23 .menu-header{height:auto!important}
+#header_v23 .top-navigation ul li a{font-family:poppinsregular!important}
+#header_v23 .top-navigation,#header_v23 .top-navigation ul li .sub-menu{background-color:#fff!important;border-color:#fff!important}
+#header_v23 .top-navigation ul li a,#header_v23 .top-navigation ul li .sub-menu .sub-menu_v1 li a,#header_v23 .mobile-dd,.sub-menu_v1 li a:before{color:#353535!important}
+#header_v23 .top-navigation ul li:hover .mobile-dd{color:#cc0000!important}
+.perfectCar{background-color:#000!important; padding-bottom:20px;}
+.perfectCar .viewBox .perfect_cartitle h2, .perfectCar .viewBox p, .perfectCar .viewBox h3, .perfectCar .callus a{color:#fff!important;}
+
+.enquiry-form .custom-form-control{background-color:#efefef!important;padding:10px 5px 5px 10px !important;border:none!important}
+::-webkit-input-placeholder{color:#333}
+h2.vehicle-enquiry:after{background-color:#efefef!important}
+.waranty_col_left,.right_box{box-shadow:none!important;border:none!important}
+.partner_logo_section{margin-bottom:10px}
+.fancybox-close{background:#373737}
+
+#banner_v21 .title-box-banner{max-width:550px}
+#banner_v21 .banner-title-heading h2{padding:30px 0;border-bottom:8px solid #cc0000;background-color:#FFF;margin-bottom:10px; color:#000}
+#banner_v21 .form-parent{display:none!important}
+#banner_v21 .banner-title.webbs-banner-title{bottom:-14%;top:auto!important;left:-1%!important}
+#banner_v21 .btn.btn-outline.details_btn{color:#000!important;border-radius:0px}
+#banner_v21 .btn.btn-outline.details_btn:hover{background-color:#fff; color:#cc0000}
+#banner_v21 .banner-wrap .vidMuteDiv{display:none!important}
+#customer_review_v4{margin-top:0}
+#customer_review_v4 .customer_review{background-color:rgb(0,0,0,0.4);color:#ffffff}
+#banners111_v1 .banners111_bg{background-color:#cc0000;color:#f8f8f8}
+#banners111_v1 .m111_link>a{background-color:#353535;color:#fff}
+#banners111_v1 .m111_link>a:hover{color:#353535;background-color:#fff}
+#banners116_v1 .M116_right>a{color:#fff;background-color:#cc0000}
+#banners116_v1 .M116_right>a:hover{background-color:#cc0000;color:#ffffff}
+#partner_logos_v97{background-color:#fff;color:#ffffff}
+#header_v23 .toplink{min-height:140px!important}
+#header_v23 .social-icon,#header_v23 .topContact{padding-top:46px!important}
+#header_v23 .sticky .social-icon{padding-top:unset!important}
+#header_v23 .top-navigation ul li.active a,#header_v23 .top-navigation ul li:hover a{background-color:#000;color:#ffffff!important;border-bottom:5px solid #000}
+.privacy_link{font-size:60%!important;line-height:15px;color:#bfbfbf}
+#customer_review_v102 .line1{color:#fff!important}
+
+
+#customer_review_v102 .inner_div{min-height:300px!important;background-color:rgba(0,0,0,0.45);background-image:cover;margin-bottom:0;margin-top:0}
+#header_v23 .sticky .top-navigation{background-color:#fff!important}
+#customer_review_v108 .M108_tick>ul>li:before{color:#5d88c2!important}
+#financespecialist_v3 .btn.btn-outline{background-color:#5d88c2!important}
+#financespecialist_v3 .rangeslider{background:#383838!important}
+#financespecialist_v3 .finance_sec_full_bg{background-color:#222!important}
+#financespecialist_v3 .btn.btn-outline{background-color:#5d88c2}
+#financespecialist_v3 .rangeslider__fill{background-color:#5d88c2!important;border-color:#5d88c2!important}
+.product-list-inner .text-info-inner p a, #productList-2 .text-info-inner p a{display:inline-block;background-color:#373737!important;color:#fff!important}
+.select2-container--default .select2-results__option--highlighted[aria-selected]{background-color:#5d88c2!important}
+.read-more-trigger,.price-tag .sub_price .apply-btn{background-color:#222!important;color:#fff!important}
+.details-list li strong {color: #fff!important;}
+#footer_v8 .time-list li a{color:inherit;text-decoration:none}
+.list-title h1:after,.list-title h2:after{background-color:#5d88c2}
+.card .see-sm span{background-color:#5d88c2;border:2px solid #5d88c2}
+.customer_reviews .user_title h2:before{background-color:#5d88c2}
+.owl-carousel.owl-drag .owl-item .item svg{fill:#5d88c2!important}
+.video-btn .fa-youtube-play{color:#5d88c2}
+.sp-thumbnail-arrow{background-color:#5d88c2!important}
+.product_featured ul li:hover:before{background-color:rgb(120,164,149,0.7)}
+#foot-bar {background:rgba(255,255,255,0.95)!important;bottom:0px!important;}
+.foot-bar_listitem a{padding: 20px 5px!important}
+.foot-bar_listitem a{color: #000!important;}
+#carstock_v3 .carstock-list>ul>li:hover .car-title{background-color:#5d88c2}
+#carstock_v3 .car-title{background-color:#cc0000!important}
+#carstock_v3 .car-title>h6{color:#fff!important}
+
+#header_v23 .top-navigation{background-color:#222;border-color:#222}
+#header_v23 .top-wrap{background-color:#222;background-color:rgb(0,0,0,0.65)}
+#header_v23 .toplink{background-color:#222}
+#header_v23 .toplink{background-color:rgb(0,0,0,0.35)}
+#welcome_text_v87 .Hdiv_right .contact{background-color:#000}
+#welcome_text_v87 .Hdiv_left h3{color:#e03224}
+#header_v23 .col-right .toplink .social-icon a,#header_v23 .toplink .topContact li a{color:#fff!important}
+#header_v23 .toplink .topContact .fa{color:#cc0000!important}
+#header_v23 .col-left .social-icon a{color:#fff!important}
+#financespecialist_v2 .btn.btn-outline,#welcome_text_v3 .featured-title h1:after{background-color:#222!important;color:#fff!important}
+#header_v23 .sticky-phone{background-color:#070f1d}
+.tab button.active,.tab button:hover{background-color:#cc0000;border-color:#cc0000}
+button.btn.btn-outline.enquiry_btn,.tab-content.detail-page-tab .tab button.active,.tab-content.detail-page-tab .tab button:hover,.quick_btn_link ul li a.enquiry-btn{background-color:#5e5e5e;border-color:#5e5e5e}
+.price-tag{background-color:#5d88c2}
+.logo-title-pd{background-color:#222}
+.stock-list:before{background:-moz-linear-gradient(top,rgba(0,0,0,0) 0%,rgba(0,0,0,0.0) 0%,rgba(0,0,0,0) 0%);background:-webkit-linear-gradient(top,rgba(0,0,0,0) 0%,rgba(0,0,0,0) 0%,rgba(0,0,0,0) 0%);background:linear-gradient(to bottom,rgba(0,0,0,0) 0%,rgba(0,0,0,0) 0%,rgba(0,0,0,0) 0%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff',endColorstr='#fff',GradientType=0)}
+.customer_reviews .quote .fa,.click_info a:hover{color:#5d88c2}
+button.btn.btn-outline.enquiry_btn,.tab-content.detail-page-tab .tab button.active,.tab-content.detail-page-tab .tab button:hover,.quick_btn_link ul li a.enquiry-btn{background-color:#222;border-color:#222}
+
+.testimonials-box {background-color: #111;box-shadow:none}
+.list-title h1:after, .list-title h2:after, .customer_reviews .user_title h2:before{background-color:#5e5e5e;}
+button.btn.btn-outline.enquiry_btn, .tab-content.detail-page-tab .tab button.active, .tab-content.detail-page-tab .tab button:hover, .quick_btn_link ul li a.enquiry-btn{background-color:#5e5e5e;border-color: #5e5e5e;}
+.card .see-sm span {background-color: #242424;border: 2px solid #242424;}
+.customer_reviews .quote .fa, .text-info-inner p a, .click_info a:hover {color: #cc0000!important;}
+.innerWhiteBox.landing-page .custom-form-group .search-btn-landing, .click_info a, .price_title_product {background-color: #5e5e5e;}
+.tab button.active, .tab button:hover {background-color: #5e5e5e;border-color: #5e5e5e;}
+.owl-carousel.owl-drag .owl-item .item svg, .item svg path{fill: #242424!important;}
+#productList-2 .specials__content, #featured_car_slide2 .specials__content, .product_top_bar, #featured_car_v10 .specials__content{background-color: #242424;}
+#featured_car_slide2 .owl-nav .owl-prev:after, #featured_car_slide2 .owl-nav .owl-next:after{color: #cc0000;}
+#featured_car_slide2 .owl-prev, #featured_car_slide2 .owl-next {background-color: transparent;border: none;}
+#featured_car_slide2 .listing-box {border: none;}
+.select2-container--default .select2-results__option--highlighted[aria-selected] {background-color: #5e5e5e!important;}
+.sp-arrow {background-color: #5e5e5e!important;}
+.product_featured ul li:hover:before {background-color: rgb(94, 94, 94, 0.7);}
+.logo-title-pd{background-color: #5e5e5e;}
+.product-list-inner .list-box .title-price.title_price_list_top, .video_btn_info {background-color: #2d2d2d;}
+.price-tag {background-color: #111;}
+.listing-box {background-color: #1b1b1b;}
+.text-info-inner p, .details-list li, .product-list-inner .list-box .title_price_list_top .product-modal {color:#fff!important}
+.details-list li svg{fill: #fff!important;}
+.product-list-inner .text-info-inner p a, #productList-2 .text-info-inner p a{background-color: #5e5e5e;color: #fff;padding: 0px 5px;font-size: 12px;border: 1px solid #fff;border-radius: 5px;text-transform: uppercase;}
+.represent_section tr:nth-child(odd) {background-color: #242424;}
+.represent_section tr:nth-child(even) {background-color: #333;}
+.price-tag .sub_price .apply-btn {background-color: #2d2d2d;}
+.representative-examp {background-color: #111;}
+.product-listing-section h4{color:#fff}
+.pagination a.active, .pagination a:hover:not(.active) {border-bottom: 2px solid #fff;}
+.product-listing-section {background:#000;}
+.stock-list:before {background: -moz-linear-gradient(top,rgba(0,0,0,0) 0%,rgba(0,0,0,0.77) 64%,rgba(0,0,0,1) 83%);background: -webkit-linear-gradient(top,rgba(0,0,0,0) 0%,rgba(0,0,0,0.77) 64%,rgba(0,0,0,1) 83%);background: linear-gradient(to bottom,rgba(0,0,0,0) 0%,rgba(0,0,0,0.77) 64%,rgba(0,0,0,1) 83%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#001e2326',endColorstr='#1e2326',GradientType=0);}
+.list-logo {opacity: .1;}
+#productList-2 .specials__content{background-color: #333;}
+#productList-2 .specials__cash {background-color: #e13224;}
+#productList-2 .specials__finance {background-color: #3378f4;}
+.swap-btn-group span.list-grid:hover {background-color: #242424;border-color: #fff;}
+.fancybox-close {background: #111;}
+.product_top_bar .price_title_product {background-color: #111;}
+.product_title:before {background-color: #242424;}
+.carkey_facts_bg {background-color: #111;}
+#foot-bar {background: #444;}
+.product_title_name, .show-price{color: #000;}
+.show-price .sub_price .hp{background-color: #000;color: #fff;}
+.product_top_bar, .product_top_bar .price_title_product, .product_title:before{background-color:#fff;}
+#featured_car_slide2 .specials__finance {background-color: #111;}
+#featured_car_slide2 .owl-prev, #featured_car_slide2 .owl-next{border-radius: 0px;}
+.waranty_col_left, .right_box{background-color: #1b1b1b;border: 1px solid #1b1b1b;}
+legend.form-title, .control-label, .card, .card a, .customer_reviews .quote, .right_box .direction-title, .waranty_col_left div, .waranty_col_left p{color:#fff;}
+.select2-selection__rendered{color: #fff;}
+legend.form-title:before, .card h3:after, h2.vehicle-enquiry:after{background-color:#5e5e5e;}
+.customer_reviews .quote .fa {color: #5e5e5e;}
+.custom-form-control, .enquiry-form .select2-container--default .select2-selection--single{border-bottom: 2px solid #5e5e5e;}
+.enquiry-form .select2-container--default .select2-selection--single .select2-selection__arrow b{filter: invert(1);}
+.product_partner{display:none}
+.showallstock .apply-btn {color: #fff;border: 1px solid #5e5e5e;background-color: #5e5e5e;}
+.sp-thumbnail-arrow {background-color: #5e5e5e!important;}
+
+@media only screen and (max-width:1400px) {
+#banner_v21 .banner-title.webbs-banner-title{bottom:-15%}
+}
+@media only screen and (max-width:1180px) {
+#banner_v21 .banner-title.webbs-banner-title{bottom:-24%}
+}
+
+@media only screen and (max-width: 1024px) {
+#header_v23 .logo{max-width:350px!important}
+.car_price_box {display:none!Important;}
+#banner_v21 .innerWhiteBox.webbe-search-bar.tabing_form{display:none!important}
+#banner_v21 .banner-title.webbs-banner-title{bottom:-28%}
+}
+@media only screen and (max-width: 900px) {
+#header_v23 .toplink {background-color: #fff;}
+#header_v23 .toplink .social-icon li a{color: #fff!important;}
+#header_v23 .top-navigation ul li.active a, #header_v23 .top-navigation ul li:hover a {background-color:#fff;color:#000!important;}
+#heroImage_v21:after,#heroImage_v21:before{display:none}
+#header_v23 .social-icon,#header_v23 .topContact{padding-top:0!important}
+#header_v23 .top-wrap{background:#000!important}
+.humberger svg path{fill:#fff!important;stroke:#fff!important}
+#header_v23 .mobiletopdiv a{color:#fff!important}
+#header_v23 .logo{max-width: 190px!important;padding-top: 15px!important;}
+}
+
+@media only screen and (max-width: 800px) {
+#banner_v21 .banner-title.webbs-banner-title{bottom:-42%}
+}
+@media only screen and (max-width: 767px) {
+#header_v23 .logo a img{max-width:100%!important}
+#banner_v21 .banner-title.webbs-banner-title{bottom:-44%}
+#banner_v21 .banner-title-heading h2{padding:10px 0}
+}
+@media only screen and (max-width: 480px) {
+
+}
+div.DesktopOnly{display:none}
+@media screen and (min-width: 700px) {
+div.DesktopOnly{display:block}
+}</style></head>
+<body id="404page" class="headerpin86 404page">
+
+<!-- templates/headers/header86/header.php -->
+<div style="position: relative;">
+<header id="header_v23" style="">
+  <div class="top-wrap">
+        <div class="header-main">
+      <div class="mobiletopdiv">
+        <a href="tel:02392454823"><i class="fa fa-phone" aria-hidden="true"></i></a>        <!--  -->
+                <!--  -->
+              </div>
+      <div class="logo" style=""> <a class="navbar-brand" href="/index/"><img src="/admin/uploaded_photos/site_logo.png?nc=0803" alt="Havant Car Company"></a> </div>
+      <div class="humberger">
+        <span><?xml version="1.0" encoding="UTF-8"?><svg width="35px" height="25px" version="1.1" viewBox="0 0 35 25" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><g fill="none" fill-rule="evenodd" stroke-linecap="round"><g transform="translate(-322 -43)" stroke="#fff" stroke-width="4"><g transform="translate(-9 -1)"><g transform="translate(333 31)"><path transform="translate(15.5 25.5) rotate(-45) translate(-15.5 -25.5)" d="m26 36-21-21"/><path transform="translate(15.5 35.5) rotate(-45) translate(-15.5 -35.5)" d="m26 46-21-21"/><path transform="translate(15.5 15.5) rotate(-45) translate(-15.5 -15.5)" d="M26,26 L5,5"/></g></g></g></g></svg></span>
+        <span class="cut"><svg height="35px" id="Layer_1" style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" width="35px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M443.6,387.1L312.4,255.4l131.5-130c5.4-5.4,5.4-14.2,0-19.6l-37.4-37.6c-2.6-2.6-6.1-4-9.8-4c-3.7,0-7.2,1.5-9.8,4  L256,197.8L124.9,68.3c-2.6-2.6-6.1-4-9.8-4c-3.7,0-7.2,1.5-9.8,4L68,105.9c-5.4,5.4-5.4,14.2,0,19.6l131.5,130L68.4,387.1  c-2.6,2.6-4.1,6.1-4.1,9.8c0,3.7,1.4,7.2,4.1,9.8l37.4,37.6c2.7,2.7,6.2,4.1,9.8,4.1c3.5,0,7.1-1.3,9.8-4.1L256,313.1l130.7,131.1  c2.7,2.7,6.2,4.1,9.8,4.1c3.5,0,7.1-1.3,9.8-4.1l37.4-37.6c2.6-2.6,4.1-6.1,4.1-9.8C447.7,393.2,446.2,389.7,443.6,387.1z"/></svg></span>
+      </div>
+      <span class="header-color"></span>
+      <div class="toplink hidden-xs">
+        <div class="container-center">
+          <div class="col-left">
+            <ul class="social-icon">
+            <li><a href="https://www.facebook.com/havantcarcompany/" title="Facebook Link - https://www.facebook.com/havantcarcompany/" target="_target"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.instagram.com/havantcarcompany/?hl=en" title="Instragram Link - https://www.instagram.com/havantcarcompany/?hl=en" target="_target"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UC4KPFTEApqDAEqaNd9v-JwQ/featured" title="YouTube Link - https://www.youtube.com/channel/UC4KPFTEApqDAEqaNd9v-JwQ/featured" target="_target"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+<li><a href="mailto:leads4hcc@gmail.com" title="Email us at leads4hcc@gmail.com" target="_target"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+            </ul>
+                      </div>
+          <div class="col-right">
+            <ul class="topContact">
+              <li class="lg">
+                <a href="tel:02392454823" target="_blank"><i class="fa fa-phone"></i>023 92454823</a>                                                              </li>
+            </ul>
+                      </div>
+        </div>
+      </div>
+      <div class="menu-header">
+        <div class="sticky_navbar"> 
+          <div class="sticky-phone" style="display:none;">
+            <div class="container-center">
+              <div class="search_icon">
+                <ul class="social-icon">
+                <li><a href="https://www.facebook.com/havantcarcompany/" title="Facebook Link - https://www.facebook.com/havantcarcompany/" target="_target"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.instagram.com/havantcarcompany/?hl=en" title="Instragram Link - https://www.instagram.com/havantcarcompany/?hl=en" target="_target"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UC4KPFTEApqDAEqaNd9v-JwQ/featured" title="YouTube Link - https://www.youtube.com/channel/UC4KPFTEApqDAEqaNd9v-JwQ/featured" target="_target"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+<li><a href="mailto:leads4hcc@gmail.com" title="Email us at leads4hcc@gmail.com" target="_target"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+                </ul>
+              </div>
+              <div class="stickyLogo">
+                <!-- <a href="/index/"><img src="/admin/uploaded_photos/site_logo3.png?nc=0803" alt="Havant Car Company"></a> -->
+                              </div>
+              <div class="top-info-contact">
+                <a href="tel:02392454823" target="_blank"><i class="fa fa-phone" aria-hidden="true"></i> 023 92454823</a>                                                              </div>
+            </div>
+          </div>
+          <div id="mobile-menu" class="top-navigation menu-mobile">
+            <div class="container-center">
+            <ul>
+              <li><a href="https://www.havantcarcompany.co.uk/index/" title="Home">Home</a></li>
+<li class="sub"><a href="https://www.havantcarcompany.co.uk/used/cars/havant/" title="Stocklist">Stocklist<span class="fa fa-angle-down mobile-dd"></span></a><div class="sub-menu mega_menu close_div"><ul class="sub-menu_v1"><li style='clear:both;'></li><li><a href='https://www.havantcarcompany.co.uk/used/abarth/havant/' title='Used ABARTH in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/21_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used ABARTH</a></li><li><a href='https://www.havantcarcompany.co.uk/used/audi/havant/' title='Used AUDI in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/25_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used AUDI</a></li><li><a href='https://www.havantcarcompany.co.uk/used/bmw/havant/' title='Used BMW in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/3_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used BMW</a></li><li><a href='https://www.havantcarcompany.co.uk/used/ford/havant/' title='Used FORD in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/1_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used FORD</a></li><li><a href='https://www.havantcarcompany.co.uk/used/mercedes/havant/' title='Used MERCEDES in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/5_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used MERCEDES</a></li><li><a href='https://www.havantcarcompany.co.uk/used/mini/havant/' title='Used MINI in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/66_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used MINI</a></li><li><a href='https://www.havantcarcompany.co.uk/used/seat/havant/' title='Used SEAT in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/85_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used SEAT</a></li><li><a href='https://www.havantcarcompany.co.uk/used/skoda/havant/' title='Used SKODA in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/86_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used SKODA</a></li><li><a href='https://www.havantcarcompany.co.uk/used/volkswagen/havant/' title='Used VOLKSWAGEN in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/98_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used VOLKSWAGEN</a></li><li style='clear:both;'></li></ul></div></li>
+<li><a href="https://www.havantcarcompany.co.uk/sold/cars/havant/" title="Sold Cars">Sold Cars</a></li>
+<li><a href="https://www.havantcarcompany.co.uk/sellyourcarform/" title="Sell your Car">Sell your Car</a></li>
+<li><a href="https://www.havantcarcompany.co.uk/finance/" title="Finance">Finance</a></li>
+<li><a href="https://www.havantcarcompany.co.uk/pages-detailing/" title="Detailing">Detailing</a></li>
+<li class=""><a href="https://www.havantcarcompany.co.uk/about/" title="About">About<span class="fa fa-angle-down mobile-dd"></span></a><div class="sub-menu  close_div"><ul class="sub-menu_v1"><li><a href="https://www.havantcarcompany.co.uk/pages-team/" title="Meet the Team" >Meet the Team</a></li>
+<li><a href="https://www.havantcarcompany.co.uk/testimonials/" title="Testimonials" >Testimonials</a></li>
+</ul></div></li>
+<li><a href="https://www.havantcarcompany.co.uk/warranty/" title="Warranties">Warranties</a></li>
+<li><a href="https://www.havantcarcompany.co.uk/find_us/" title="Find Us">Find Us</a></li>
+            </ul>
+            </div>
+            <div class="toplink hidden-md">
+              <ul>
+                <span class="phone">                  
+                                    <li class="phone-number">
+                    <a href="tel:02392454823"> TEL: 023 92454823</a>
+                  </li>
+                                                                                        </span>
+                <span class="social-icon">
+                <li><a href="https://www.facebook.com/havantcarcompany/" title="Facebook Link - https://www.facebook.com/havantcarcompany/" target="_target"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.instagram.com/havantcarcompany/?hl=en" title="Instragram Link - https://www.instagram.com/havantcarcompany/?hl=en" target="_target"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UC4KPFTEApqDAEqaNd9v-JwQ/featured" title="YouTube Link - https://www.youtube.com/channel/UC4KPFTEApqDAEqaNd9v-JwQ/featured" target="_target"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                </span>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<!-- HEADER -->
+<script>
+$(".humberger").click(function(){
+  $(this).find('span').toggleClass('cut');
+  $("#header_v23 .top-navigation").stop().slideToggle("slow");
+  //$("#header_v23 .top-navigation").slideToggle("slow");
+});
+</script><!-- banner -->
+<div class="topic-banner sell-yourcar wow fadeIn" >
+  <div class="overlay"></div>
+  <div class="container-center">
+    <div class="list-title">
+      <h1 >Error 404</h1>
+    </div>
+  </div>
+</div>
+<!---- product-listing-section ---->
+<div class="product-listing-section inner-page-content">
+  <div class="container-center">
+    <!---- Left COl Starts --->
+    <div class="waranty_col_left">
+      <p>Page doesn't exist.</p>    </div>
+    <!---- Left Col ENDS ---> 
+    <!---- Right side --->
+    <!-- <div class="waranty_col_right">
+    </div> -->
+    <div class="waranty_col_right 404page-right-col">
+      <!-- Customer Reviews -->
+    <div class="right_box">
+      <div class="card">
+        <h3>Customer Reviews</h3>
+        <a href="/testimonials/">
+        <div class="see-sm">
+                    <span>See All</span>
+        </div>
+        </a>
+        <div class="customer_reviews">   
+          <div id="testimonial_slide" class="owl-carousel owl-theme">
+                          <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Picked up our BMW 420 Msport this weekend, the whole experience from initially viewing the car to buying it was easy. Just by seeing the quality of th... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>Tony Tracy Micallef</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    I brought a car from here not to long ago, and I can’t not fault the customer service at all. I would highly recommend here ! Thank you so much guys... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>Tyler Dickson</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Would recommend, very understand in a circumstance change, very helpful with fast replies... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>Sam Brown</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    A special thanks to George who was extremely helpful and accommodating when me and my friend came down from London to view and eventually purchase a l... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>George Changua</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Been hearing great stories about Havant Car Company from several people recently who have either purchased a car from, sold a car to, or in some cases... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>John Nightingale</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Both guys were absolutely top, genuine nice guys and a great welcoming service!! Would recommend seeing Max and George to sort you out a great deal!... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>Arron Mears</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    1000% recommend 😍 got my cupra Ibiza from them absolutely love it and if I ever need help or advise they are always there to help ..!! Thank you gu... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>Chelseaa Stonee</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Purchased a couple of cars through Havant Car Company now. Very easy, stress free and simple transactions. Cannot praise George enough he's hardworkin... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>Jake Butcher</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Great guys very helpful                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2> Chriss Pinder</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Great customer service, no pressure sales, beautiful cars.                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>Debby Hussey</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Had 2 cars from here never had any problems, step son just had one as well, all good and nice guys always helpful and good at sorting out any teething... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>gary smith</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Very impressed with the overall service delivery from George and the team. The car was exactly as described and the whole process from test drive to p... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>Steve Badman</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Lovely service and great selection of cars at good honest prices                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2> Laura Wright</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Excellent service by the team. Viewed the car I liked and was offered the choice to test drive on my own or with them in the car. Received a fair part... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2> Chris Stiles</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Top class family run, open and honest car business. Just purchased our third car from here and the professional manner you get from Max and George and... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>Paula Mclean</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Really helpful team, relaxed professional atmosphere and the cars really are as good as the pictures. Well worth a visit even if your not local!... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>Nick Heath</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    The majority of people post reviews directly after they have bought the car but sometimes you find out how good a business is once there is an issue.... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>Sean Dawes</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    I contacted Havant Car Company about selling my car to them and after a short discussion with Max, a deal was made. Car was collect a few days later b... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2> Tom James</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Really friendly and helpful. Knowledgable about the vehicle. This is the second time i have purchased a vehicle from Havant Car Company. The Salesmen... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>Eddie S</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    I was looking for cars for my wife and daughter. Havant Car Company were advertising a Peugeot RCZ so we went to look at it for my wife. It was in bea... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>CHRIS W</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Excellent service and communication throughout. George was helpful from the start right through the end. Max was also excellent. The vehicle itself wa... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>IEUAN D</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Very straightforward easy people to deal with. No pushy hard sell nothing seemed to be an issue great communication throughout. After sales service wi... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>JOHN H</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    I found it to be a real pleasure to deal with this company. Vehicle was as described by them and no pressure by pushy salespeople.... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>GAY D</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Nice and easy transaction and was a pleaser doing business with George and max                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>NEAL B</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    A first class car buying experience from first viewing to driving away. I saw a VW scirocco advertised, made arrangements to view on a Sunday, no hard... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>KEVIN B</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Bought a Ford Focus st-3 a couple of days ago now. The main thing that stood out to me was they both never tried to push a sell. Would highly recommen... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>ADAM G</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    What a fantastic service. Very honest and straight forward at all stages. I placed a deposit based on some high resolution photos which were sent dire... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>SCOTT W</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    Was very happy with Havant Car Company. I put a deposit on car over the phone after a short conversation about my VW Golf. The car Was in amazing cond... <a href='/testimonials/'>Read More</a>                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>LEE B</h2>
+                  </div>
+                </div>
+              </div>              <div class="item">
+                <div class="quote">
+                  <i class="fa fa-quote-left"></i>
+                  <ul class="review-star">
+                  <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li><li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>                  </ul>
+                  <p>
+                    TESTING                  </p>
+                  <i class="fa fa-quote-right"></i>
+                  <div class="user_title">
+                    <h2>TEST</h2>
+                  </div>
+                </div>
+              </div>          </div>
+        </div>
+      </div>
+    </div><div class="right_box">
+  <div class="card">
+    <h3>Contact Details</h3>
+        <a href="#">
+      <i class="fa fa-map-marker"></i>
+      Stockheath Road<br />
+Havant<br>Hampshire<br>PO9 5HG    </a>    <a href="tel:02392454823"><i class="fa fa-phone"></i> 023 92454823</a>
+                <a href="mailto:leads4hcc@gmail.com"><i class="fa fa-envelope-o"></i> leads4hcc@gmail.com</a>
+  </div>
+  <h2 class="direction-title">Get Directions</h2>
+  <div class="card">
+    <article class="address2">
+      <div class="text">
+        <div class="custom-form-group">
+          <form name="direction-form" action="https://maps.google.com/maps" method="get" target="_blank">
+            <input type="hidden" name="daddr" value=" PO9 5HG">
+            <div class="oval" onClick="document.forms['direction-form'].submit();" style="cursor: pointer;">
+              <i class="fa fa-angle-right"></i>
+            </div>
+            <input type="text" name="saddr" id="saddr" class="custom-form-control bg-transparent" placeholder="Enter Postcode">
+          </form>
+        </div>
+      </div>
+    </article>
+  </div>
+</div></div>    <!---- End Right side --->
+  </div>
+</div>
+<!---- Perfect Car ---->
+<!---- End Perfect Car ---->
+<!-- Footer -->
+
+<!-- templates/footers/footer131/footer.php -->
+<!-- FOOTER -->
+<div id="footer_v131">
+  <footer class="footermain">
+  <div class="subscribe-section">
+  <div class="container-center">
+    <div class="subscribe-now">
+        Get Stock Updates Directly Into Your Inbox <a href="https://stockupdates.cardealer5.co.uk?email=leads4hcc@gmail.com&name=Max Sullivan" class="stock_update_button" target="_blank" title="Subscribe now for weekly updates">SIGN ME UP</a>
+    </div>
+  </div>
+</div>
+<div class="used_car_section">
+    <div class="container-center">
+      <div class="used-cartitle">
+                <h2><strong>Used Cars</strong><span> <span class="spanin">in</span> Havant, Hampshire</span></h2>
+      </div>
+      <ul class="used_car_list">
+        <li style='clear:both;'></li><li><a href='https://www.havantcarcompany.co.uk/used/abarth/havant/' title='Used ABARTH in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/21_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used ABARTH</a></li><li><a href='https://www.havantcarcompany.co.uk/used/audi/havant/' title='Used AUDI in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/25_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used AUDI</a></li><li><a href='https://www.havantcarcompany.co.uk/used/bmw/havant/' title='Used BMW in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/3_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used BMW</a></li><li><a href='https://www.havantcarcompany.co.uk/used/ford/havant/' title='Used FORD in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/1_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used FORD</a></li><li><a href='https://www.havantcarcompany.co.uk/used/mercedes/havant/' title='Used MERCEDES in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/5_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used MERCEDES</a></li><li><a href='https://www.havantcarcompany.co.uk/used/mini/havant/' title='Used MINI in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/66_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used MINI</a></li><li><a href='https://www.havantcarcompany.co.uk/used/seat/havant/' title='Used SEAT in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/85_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used SEAT</a></li><li><a href='https://www.havantcarcompany.co.uk/used/skoda/havant/' title='Used SKODA in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/86_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used SKODA</a></li><li><a href='https://www.havantcarcompany.co.uk/used/volkswagen/havant/' title='Used VOLKSWAGEN in Havant, Hampshire'><img class="icon_item lazyload" src="/asset/images/oval-white.svg" data-src="https://admin.cardealer5.co.uk/superadmin/uploaded_photos/98_logo.png" onerror="this.onerror=null;this.src='https://admin.cardealer5.co.uk/superadmin/uploaded_photos/make50px/error.png';">Used VOLKSWAGEN</a></li><li style='clear:both;'></li>      </ul>
+    </div>
+</div>
+    <div class="sitemap_section">
+      <div class="container-center">
+
+                      <div style="clear: both;"></div>
+
+        <div class="sitemap_section_col2">
+          <div class="ft-collom">
+            <ul class="address_logo">
+              <li><a href="/" title="Havant Car Company Homepage"><img class="lazyload" src="/asset/images/noimage_spin.png" data-src="https://havantcarcompany.co.uk/admin/uploaded_photos/site_logo2.png?nocache=150557" title="Havant Car Company homepage" alt="Havant Car Company Logo" width="185" height="25"></a></li>            </ul>
+            <div class="address_float">
+              <address>Stockheath Road<br />
+Havant<br>Hampshire<br>PO9 5HG</address><address><a href="tel:02392454823" title="Call us on 023 92454823" ><i class="fa fa-phone"></i> 023 92454823</a><a href="mailto:leads4hcc@gmail.com" title="Email us at leads4hcc@gmail.com" ><i class="fa fa-envelope-o"></i>leads4hcc@gmail.com</a></address>            </div>
+            <div style="clear: both;"></div>
+            <ul class="ft-social-icon">
+              <!-- <li>GET SOCIAL</li> -->
+              <li><a href="https://www.facebook.com/havantcarcompany/" title="Facebook Link - https://www.facebook.com/havantcarcompany/" target="_target"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.instagram.com/havantcarcompany/?hl=en" title="Instragram Link - https://www.instagram.com/havantcarcompany/?hl=en" target="_target"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UC4KPFTEApqDAEqaNd9v-JwQ/featured" title="YouTube Link - https://www.youtube.com/channel/UC4KPFTEApqDAEqaNd9v-JwQ/featured" target="_target"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="sitemap_section_col2">
+         <div class="sitemap_section_col2_inner">
+          <div class="used-cartitle"><h2><strong>Opening</strong> Hours</h2></div>
+          <div class="text">
+            <ul class="time-list">
+              
+<li class=''><div class="day"><strong>Monday</strong></div><span>09:00 - 17:30</span></li>
+
+<li class=''><div class="day"><strong>Tuesday</strong></div><span>09:00 - 17:30</span></li>
+
+<li class=''><div class="day"><strong>Wednesday</strong></div><span>09:00 - 17:30</span></li>
+
+<li class=''><div class="day"><strong>Thursday</strong></div><span>09:00 - 17:30</span></li>
+
+<li class='active'><div class="day"><strong>Friday</strong></div><span>09:00 - 17:30</span></li>
+
+<li class=''><div class="day"><strong>Saturday</strong></div><span>09:00 - 17:30</span></li>
+            </ul>
+          </div>
+          <div class="text">
+            <div class="custom-form-group">
+              <form name="direction-form" action="https://maps.google.com/maps" method="get" target="_blank">
+                  <input type="hidden" name="daddr" value=" PO9 5HG">
+                  <div class="oval" onClick="document.forms['direction-form'].submit();" style="cursor: pointer;">
+                    <i class="fa fa-angle-right"></i>
+                  </div>
+                  <input type="text" name="saddr" id="saddr" class="custom-form-control bg-transparent" placeholder="Enter Postcode">
+                </form>            </div>
+          </div>
+         </div>
+        </div>
+        <div style="clear: both;"></div>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="copyright-section">
+  <div>    <div class="powerdby">
+      <div class="privacy_link">
+        <h4><i class="fa fa-lock"></i> SSL secure. Please read our <a href="/privacy_policy/">privacy policy</a></h4>
+        <p></p>
+      </div>
+              <div class="cardealer">
+          <div class="cardealer1">
+            <a href="https://www.cardealer5.co.uk/" target="_blank" rel="nofollow"><img class="lazyload" src="/asset/images/oval-white.svg" data-src="/asset/images/CarDealer5.svg" alt="Cardealer 5 Ltd"></a>
+          </div>
+          <div class="cardealer2">
+            <p><a href="https://www.cardealer5.co.uk/" target="_blank" rel="nofollow">Powered by Car Dealer 5</a></p>
+            <small><a href="https://www.cardealer5.co.uk/" target="_blank" rel="nofollow">CAR DEALER WEBSITES - SYMPHONY</a></small>
+          </div>
+        </div>
+            </div>
+  </div>
+</div>  </footer>
+</div>
+<!-- FOOTER -->
+
+  <!-- Modal popup fade in -->
+  <div class="popup" data-popup="popup-1" id="popup-1" style="display:none;">
+    <div class="popup-inner">
+      <div class="checkbox_modal">
+        <h3>Please tick the methods of how we can contact you about your enquiry</h3>
+        <div class="checkbox_group">
+          <div class="input-group">
+            <label class="custom-checkbox">
+            <input type="checkbox" name="gdprpemail" id="gdprpemail" class="regular-checkbox"  ><span>Email</span>
+            </label>
+          </div>
+          <div class="input-group">
+            <label class="custom-checkbox">
+            <input type="checkbox" name="gdprpphone" id="gdprpphone" class="regular-checkbox"  > <span>Phone</span>
+            </label>
+          </div>
+          <div class="input-group">
+            <label class="custom-checkbox">
+            <input type="checkbox" name="gdprpsms" id="gdprpsms" class="regular-checkbox"  > <span>SMS</span>
+            </label>
+          </div>
+          <div class="input-group">
+            <label class="custom-checkbox">
+            <input type="checkbox" name="gdprppost" id="gdprppost" class="regular-checkbox"  ><span>Post</span>
+            </label>
+          </div>
+        </div>
+        <div class="input-group fullwidth no-margin">
+          <button class="btn btn-outline btn-lg send-enquiry-btn sky-blue-btn" id="gdprpsubmit"  >Submit</button>
+        </div>
+      </div>
+      <a class="popup-close" data-popup-close="popup-1" href="#"  >x</a>
+    </div>
+  </div>
+  <div class="popup" data-popup="popup-2" style="display:none;">
+  <div class="popup-inner videodiv">
+    <div class="videodivfr">
+    </div>
+    <a class="popup-close" data-popup-close="popup-2" href="#">x</a>
+  </div>
+</div>
+<!-- FOOTER STICKY BUTTONS BOTTOM -->
+<div id="foot-bar">
+  <ul class="foot-bar">
+    <li class="foot-bar_listitem">
+      <a href="/used/cars/havant/" class="foot-bar_link" title="Stock" content=""><i class="fa fa-car"></i><!-- Stock --></a>
+    </li>
+    <li class="foot-bar_listitem">
+        <a href="tel:02392454823" class="foot-bar_link" title="tel:023 92454823" itemprop="telephone" content=""><i class="fa fa-phone"></i><!-- Call us --></a>
+    </li>
+    <li class="foot-bar_listitem">
+      <a href="/find_us/#maploc" class="foot-bar_link" title="Find us"><i class="fa fa-map-marker"></i><!-- Find us --></a>
+    </li>
+    <li class="foot-bar_listitem">
+      <a href="mailto:leads4hcc@gmail.com" class="foot-bar_link" title="Email us" itemprop="email" content=""><i class="fa fa-envelope-o"></i><!-- Message us --></a>
+    </li>
+  </ul>
+</div>
+</body>
+<!-- <link rel="stylesheet" href="/asset/css/media.min.css"> -->
+<script src="/asset/js/custom.min.js"></script>
+<style>
+#footer_v131 .subscribe-section{margin-top:-20px!Important}
+#footer_v131 .stock_update_button{background-color:#cc0000!Important;color:#fff!Important;}
+#footer_v131 .stock_update_button:hover{background-color:#000!Important; color:#ffffff!Important;}
+#footer_v131 .ft-social-icon li a{background-color:#cc0000; color: #fff;}
+#footer_v131 .ft-social-icon li a:hover{color:#000; background-color: #fff;}
+</style>
+</html>
+<script src="/asset/js/plugins/parallax_zoom.min.js"></script>
+<script src="/asset/js/plugins/owl.carousel.min.js"></script>
+<script src="/asset/js/plugins/select2.min.js"></script>
+<script src="/asset/js/plugins/lazyload.min.js"></script>
+<script>
+window.addEventListener("load", function(event) {
+  let timeout = setTimeout(function() {
+    lazyload();
+  }, 200);
+});
+</script>
+<script src="/asset/js/plugins/range_slider.js"></script>
+<script src="/asset/js/plugins/roundslider.min.js"></script>
+<script src="/asset/js/plugins/rangeslider.min.js"></script>
+<script type="text/javascript" src="https://api.visitor.chat/js/vc.min.js" id="vcLoaderScript"></script><script type="text/javascript">
+  function check_prices () {
+    if ( document.getElementById("l3").value > 0) {
+      var A1 = document.getElementById("l3").value;
+      var A2 = document.getElementById("l1").value;
+      if ( parseInt(A1) > parseInt(A2)) {
+        alert ("Maximum price can not be smaller than minimum price.")
+        return false;
+      }
+    }
+    return true;
+  }
+
+  function change_max_price ( D, maxPrice ) {
+    var minPrice = 1000;
+    var myPrice = new Array();
+    for (var i = minPrice; i <= maxPrice; i+=1000) {
+       myPrice.push(i);
+    }
+    var divid = 'l1';
+    var P;
+    for (i=0; i < myPrice.length; i++) {
+      if (D < myPrice[i]) {
+        P += "<option value='"+myPrice[i]+"'>Max &pound;"+myPrice[i]+"</option>";
+      }
+    }
+    document.getElementById(divid).innerHTML = P;
+  }
+</script>
+<script>
+    var acc = document.getElementsByClassName("Haccordion");
+    var i;
+    for (i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click", function() {
+        this.classList.toggle("Hactive");
+        var panel = this.nextElementSibling;
+        if (panel.style.maxHeight) {
+          panel.style.maxHeight = null;
+        } else {
+          panel.style.maxHeight = panel.scrollHeight + "px";
+        } 
+      });
+    }
+</script>
+<script>
+$(function(){$("#gdprpsubmit").on("click",function(e){var gdprpemail=$("#gdprpemail").is(":checked");if(gdprpemail==true){$("#gdpr_email").val("y")}else{$("#gdpr_email").val("")}var gdprpphone=$("#gdprpphone").is(":checked");if(gdprpphone==true){$("#gdpr_phone").val("y")}else{$("#gdpr_phone").val("")}var gdprpsms=$("#gdprpsms").is(":checked");if(gdprpsms==true){$("#gdpr_sms").val("y")}else{$("#gdpr_sms").val("")}var gdprppost=$("#gdprppost").is(":checked");if(gdprppost==true){$("#gdpr_post").val("y")}else{$("#gdpr_post").val("")}$("input[name=gdpr]").prop("checked",true);if(gdprpemail==true||gdprpphone==true||gdprpsms==true||gdprppost==true){$(".popup-close").click()}});$('input[name="gdpr"]').on("click",function(){if($(this).prop("checked")){var targeted_popup_class=$(this).attr("data-popup-open");$('[data-popup="'+targeted_popup_class+'"]').fadeIn(350);e.preventDefault()}});$("[data-popup-close]").on("click",function(e){var gdprpemail=$("#gdprpemail").is(":checked");if(gdprpemail==true){$("#gdpr_email").val("y")}else{$("#gdpr_email").val("")}var gdprpphone=$("#gdprpphone").is(":checked");if(gdprpphone==true){$("#gdpr_phone").val("y")}else{$("#gdpr_phone").val("")}var gdprpsms=$("#gdprpsms").is(":checked");if(gdprpsms==true){$("#gdpr_sms").val("y")}else{$("#gdpr_sms").val("")}var gdprppost=$("#gdprppost").is(":checked");if(gdprppost==true){$("#gdpr_post").val("y")}else{$("#gdpr_post").val("")}if(gdprpemail==false&&gdprpphone==false&&gdprpsms==false&&gdprppost==false){$("input[name=gdpr]").prop("checked",false)}var targeted_popup_class=jQuery(this).attr("data-popup-close");$('[data-popup="'+targeted_popup_class+'"]').fadeOut(350);$(".videodivfr").html("");e.preventDefault()});$(".videoicon").on("click",function(){var targeted_popup_class=$(this).attr("data-popup-open");var vidsrc=$(this).attr("atsrc");$(".videodivfr").html(vidsrc);$('[data-popup="'+targeted_popup_class+'"]').fadeIn(350);$(".videodivfr iframe")[0].src+="&autoplay=1";e.preventDefault()})});
+</script>
+<!-- Cookie Notice -->
+<script src="https://cardealer5.co.uk/cookienotice/cd5_cookienotice.js"></script>
